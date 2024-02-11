@@ -8,7 +8,7 @@
 
 **Based:** Hanoi, Vietnam
 
-**Contact me:** 
+Feel Free to Connect with me 🤠
 
 **Zalo:** 0963063230
 
