@@ -3,8 +3,6 @@
 
 **Based:** Hanoi, Vietnam
 
-**Status:** Currently Open for a **Data Engineer** Job
-
 **Contact me:** Zalo (+84) 96-306-3230
 
 **Email:** vantuan1362002@gmail.com
