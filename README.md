@@ -7,7 +7,7 @@
 
 **Contact me:** Zalo (+84) 96-306-3230
 
-**Email:** anhtuanhoang2001@gmail.com
+**Email:** vantuan1362002@gmail.com
 
 **Linkedin**: [LinkedIn](https://www.linkedin.com/in/mikezxc136/)
 ## Portfolio Projects
