@@ -21,4 +21,5 @@ Feel Free to Connect with me 🤠
 ### Table of Contents
 
 ## [Sale Azure Analytics.](https://github.com/mikezxc136/sale-azure)
+This project showcases the creation and execution of a comprehensive data pipeline, utilizing Azure services for data manipulation, storage, and visualization within an analytics framework.
 ![](./img/architecture.jpg)
