@@ -19,3 +19,4 @@ Feel Free to Connect with me 🤠
 
 
 ### Table of Contents
+![](./img/architecture.jpg)
