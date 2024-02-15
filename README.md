@@ -19,4 +19,6 @@ Feel Free to Connect with me 🤠
 
 
 ### Table of Contents
+
+## [Sale Azure Analytics.](https://github.com/mikezxc136/sale-azure)
 ![](./img/architecture.jpg)
